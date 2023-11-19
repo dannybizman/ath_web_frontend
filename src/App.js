@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
  <div>
   <h1>
-    Hello David Change the name KB to ATH
+  Hello Daniel name changed ATH
   </h1>
  </div>
       </header>
